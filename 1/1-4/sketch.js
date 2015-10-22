@@ -3,7 +3,7 @@ var centerX;
 var centerY;
 var r = 120;
 
-//step()の中身は最初に一回だけ実行される
+//setup()の中身は最初に一回だけ実行される
 function setup() {
     createCanvas(windowWidth, windowHeight);
     background(255);

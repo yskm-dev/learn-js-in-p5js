@@ -14,13 +14,15 @@ function setup() {
 }
 
 function draw() {
-    /* 円の中心を変数に置き換えてみる
+    /*
+    // 円の中心を変数に置き換えてみる
     stroke(0)
     noFill();
     ellipse(centerX, centerY, 200, 200);
     */
 
-    /* 半径を変数に置き換えてみる
+    /*
+    // 半径を変数に置き換えてみる
     stroke(0)
     noFill();
     ellipse(centerX, centerY, r, r);
