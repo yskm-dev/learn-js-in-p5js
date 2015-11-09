@@ -1,0 +1,5 @@
+function hoge(){
+    alert('!');
+}
+
+hoge();
